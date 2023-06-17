@@ -1,1 +1,4 @@
-Built target firmware
+Built target firmware:
+micropython-1.20.0
+RP2040 Lite Purple 16MB
+18.06.2023
