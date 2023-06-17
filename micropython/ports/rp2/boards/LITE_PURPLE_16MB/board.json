@@ -1,0 +1,20 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [
+        "Breadboard Friendly",
+        "Castellated Pads",
+        "SPI Flash",
+        "USB-C"
+    ],
+    "images": [
+        "rp2-lp16.jpg"
+    ],
+    "mcu": "rp2040",
+    "product": "RP2 Lite Purple (16MB)",
+    "thumbnail": "",
+    "url": "",
+    "vendor": ""
+}
